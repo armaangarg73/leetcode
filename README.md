@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
