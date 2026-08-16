@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/armaangarg73/leetcode/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
