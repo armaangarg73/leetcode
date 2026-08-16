@@ -55,10 +55,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/armaangarg73/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/armaangarg73/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/armaangarg73/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
