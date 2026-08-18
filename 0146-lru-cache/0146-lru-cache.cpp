@@ -14,106 +14,61 @@ public:
         }
     };
 
-    int capacity;
+    int limit;
     unordered_map<int, Node*> mp;
 
-    Node* head; // newest
-    Node* tail; // oldest
+    Node* head = new Node(-1 , -1); 
+    Node* tail = new Node(-1 , -1); 
+
+    void addNode(Node* newNode) {
+        Node* oldNext = head->next ;
+        head->next = newNode ;
+        oldNext->prev = newNode ;
+        newNode->next = oldNext ;
+        newNode->prev = head ;
+    }
+
+    void delNode(Node* oldNode) {
+        Node* oldPrev = oldNode->prev ;
+        Node* oldNext = oldNode->next ;
+
+        oldPrev->next = oldNext;
+        oldNext->prev = oldPrev ;
+    }
 
     LRUCache(int capacity) {
-        this->capacity = capacity;
-        head = NULL;
-        tail = NULL;
+        limit = capacity;
+        head->next = tail ;
+        tail->prev = head ;
     }
-
-    void moveToFront(Node* node) {
-
-        if (node == head)
-            return;
-
-        // Remove node from current position
-        if (node->prev)
-            node->prev->next = node->next;
-
-        if (node->next)
-            node->next->prev = node->prev;
-
-        if (node == tail)
-            tail = node->prev;
-
-        // Insert node at front
-        node->prev = NULL;
-        node->next = head;
-
-        if (head)
-            head->prev = node;
-
-        head = node;
-
-        if (!tail)
-            tail = head;
-    }
-    
+  
     int get(int key) {
+        if(mp.find(key)==mp.end()) {
+            return -1 ;
+        }
 
-        if (mp.find(key) == mp.end())
-            return -1;
-
-        Node* node = mp[key];
-
-        moveToFront(node);
-
-        return node->value;
+        Node* ansNode = mp[key];
+        delNode(ansNode);
+        addNode(ansNode);
+        return ansNode->value ;
     }
     
     void put(int key, int value) {
 
-        // Key already exists
-        if (mp.find(key) != mp.end()) {
-
-            Node* node = mp[key];
-
-            node->value = value;
-
-            moveToFront(node);
-
-            return;
+        if(mp.find(key)!=mp.end()) {
+            Node* oldNode = mp[key];
+            delNode(oldNode);
+            mp.erase(key);
         }
 
-        // Cache full
-        if (mp.size() == capacity) {
-
-            Node* node = tail;
-
-            mp.erase(node->key);
-
-            if (head == tail) {
-                head = NULL;
-                tail = NULL;
-            }
-            else {
-                tail = tail->prev;
-                tail->next = NULL;
-            }
-
-            delete node;
+        if(mp.size() == limit) {
+            mp.erase(tail->prev->key);
+            delNode(tail->prev);
         }
 
-        // Create new node
-        Node* node = new Node(key, value);
-
-        // Insert at front
-        node->next = head;
-
-        if (head)
-            head->prev = node;
-
-        head = node;
-
-        if (!tail)
-            tail = node;
-
-        mp[key] = node;
+        Node* newNode = new Node(key , value);
+        addNode(newNode);
+        mp[key] = newNode ;
     }
 };
 
