@@ -11,7 +11,7 @@
 class Solution {
 public:
 
-    void reverse(ListNode* head , int times) {
+    ListNode* reverse(ListNode* head , int times) {
         ListNode* curr = head ;
         ListNode* prev = NULL ;
         while(times--) {
@@ -20,7 +20,7 @@ public:
             prev = curr ;
             curr = next ;
         }
-        return ;
+        return prev;
     }
 
     ListNode* reverseKGroup(ListNode* head, int k) {
