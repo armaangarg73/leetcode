@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/armaangarg73/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/armaangarg73/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaangarg73/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
