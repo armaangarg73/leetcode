@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/armaangarg73/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/armaangarg73/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/armaangarg73/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
