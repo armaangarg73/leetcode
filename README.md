@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/armaangarg73/leetcode/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0785-is-graph-bipartite](https://github.com/armaangarg73/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/armaangarg73/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Union-Find
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Graph Coloring
 |  |
 | ------- |
