@@ -26,10 +26,10 @@ public:
         vector<vector<int>>a(numCourses);
         int n = prerequisites.size() ;
         for(int i = 0 ; i<n ; i++) {
-            int src = prerequisites[i][0] ;
-            int dest = prerequisites[i][1] ;
+            int dest = prerequisites[i][0] ;
+            int src = prerequisites[i][1] ;
 
-            a[src].push_back(dest);
+            a[dest].push_back(src);
         }
 
         vector<bool>visited(numCourses , 0);
