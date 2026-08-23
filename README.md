@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/armaangarg73/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/armaangarg73/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/armaangarg73/leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/armaangarg73/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/armaangarg73/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/armaangarg73/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
