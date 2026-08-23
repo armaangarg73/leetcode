@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaangarg73/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/armaangarg73/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/armaangarg73/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/armaangarg73/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaangarg73/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/armaangarg73/leetcode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/armaangarg73/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/armaangarg73/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/armaangarg73/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/armaangarg73/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/armaangarg73/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/armaangarg73/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/armaangarg73/leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/armaangarg73/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/armaangarg73/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/armaangarg73/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/armaangarg73/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/armaangarg73/leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/armaangarg73/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -244,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -255,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -285,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/armaangarg73/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
