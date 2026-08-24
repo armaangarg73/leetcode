@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/armaangarg73/leetcode/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/armaangarg73/leetcode/tree/master/0146-lru-cache) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/armaangarg73/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/armaangarg73/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/armaangarg73/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/armaangarg73/leetcode/tree/master/0207-course-schedule) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
