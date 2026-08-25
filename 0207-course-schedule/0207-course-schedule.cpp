@@ -3,19 +3,18 @@ public:
 
     bool cycle = false ;
 
-    void dfs(vector<vector<int>>& prerequisites , int node , vector<bool>& visited , vector<bool>& path) {
+    void dfs(vector<vector<int>>& prerequisites , vector<bool>& visited , vector<bool>& path , int node) {
         visited[node] = 1 ;
         path[node] = 1 ;
 
-        for(int j = 0 ; j<prerequisites[node].size() ; j++) {
-            int neigh = prerequisites[node][j];
-
+        for(int j = 0 ; j <prerequisites[node].size() ; j++) {
+            int neigh = prerequisites[node][j] ;
             if(visited[neigh] == 1 && path[neigh] == 1) {
                 cycle = true ;
             }
 
-            if(visited[neigh] == 0) {
-                dfs(prerequisites , neigh , visited , path);
+            if(visited[neigh]==0) {
+                dfs(prerequisites , visited , path , neigh);
             }
         }
         path[node] = 0 ;
@@ -23,21 +22,21 @@ public:
     }
 
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>a(numCourses);
-        int n = prerequisites.size() ;
-        for(int i = 0 ; i<n ; i++) {
+        vector<vector<int>>a(numCourses) ;
+
+        for(int i = 0 ; i<prerequisites.size() ; i++) {
             int dest = prerequisites[i][0] ;
             int src = prerequisites[i][1] ;
 
-            a[dest].push_back(src);
+            a[src].push_back(dest);
         }
 
-        vector<bool>visited(numCourses , 0);
-        vector<bool>path(numCourses , 0);
+        vector<bool>visited(numCourses , 0) ;
+        vector<bool>path(numCourses , 0) ;
 
         for(int i = 0 ; i<numCourses ; i++) {
             if(visited[i] == 0) {
-                dfs(a , i , visited , path);
+                dfs(a , visited , path , i);
             }
         }
         return !cycle ;
