@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
+
         int low = 0;
         int high = nums.size() - 1;
 
@@ -12,32 +13,42 @@ public:
                 return true;
             }
 
-            // Cannot determine which part is sorted
-            if(nums[low] == nums[mid] && nums[mid] == nums[high]) {
+            // duplicate case
+            if(nums[low] == nums[mid] && nums[high] == nums[mid]) {
                 low++;
                 high--;
                 continue;
             }
 
-            // Part 1 is sorted
-            if(nums[low] <= nums[mid]) {
+            // part1
+            if(nums[mid] > nums[high]) {
 
-                if(nums[low] <= target && target < nums[mid]) {
-                    high = mid - 1;
+                if(nums[mid] < target) {
+                    low = mid + 1;
                 }
                 else {
-                    low = mid + 1;
+                    if(nums[low] > target) {
+                        low = mid + 1;
+                    }
+                    else {
+                        high = mid - 1;
+                    }
                 }
             }
 
-            // Part 2 is sorted
+            // part2
             else {
 
-                if(nums[mid] < target && target <= nums[high]) {
-                    low = mid + 1;
+                if(nums[mid] > target) {
+                    high = mid - 1;
                 }
                 else {
-                    high = mid - 1;
+                    if(nums[high] < target) {
+                        high = mid - 1;
+                    }
+                    else {
+                        low = mid + 1;
+                    }
                 }
             }
         }
