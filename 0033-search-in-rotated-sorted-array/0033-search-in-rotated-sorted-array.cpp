@@ -10,12 +10,12 @@ public:
                 return mid ;
             }
     // part1
-            if(nums[mid]>nums[nums.size()-1]) {
+            if(nums[mid]>nums[high]) {
                 if(nums[mid]<target) {
                     low = mid+1 ;
                 }
                 else {
-                    if(nums[0]>target) {
+                    if(nums[low]>target) {
                         low = mid+1 ;
                     }
                     else {
@@ -30,7 +30,7 @@ public:
                     high = mid-1 ;
                 }
                 else {
-                    if(nums[nums.size()-1]<target) {
+                    if(nums[high]<target) {
                         high = mid-1 ;
                     }
 
