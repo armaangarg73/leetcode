@@ -1,63 +1,47 @@
 class Solution {
 public:
-
-    bool bs(vector<int>& nums, int target , int high , int low) {
-
-        while(low<=high) {
-            int mid = (low+high)/2 ;
-            if(nums[mid]==target){
-                return true ;
-            }
-            else if(nums[mid]<target) {
-                low = mid+1 ;
-            }
-            else {
-                high = mid-1 ;
-            }
-        }
-        return false ;
-    }
-
     bool search(vector<int>& nums, int target) {
-        int low = 0 ;
-        int high = nums.size()-1 ;
+        int low = 0;
+        int high = nums.size() - 1;
 
-        while(low<high) {
-            int mid = (low+high)/2 ;
-            if(nums[mid]>nums[high]) {
-                low = mid+1 ;
+        while(low <= high) {
+
+            int mid = (low + high) / 2;
+
+            if(nums[mid] == target) {
+                return true;
             }
 
-            else if(nums[mid]<nums[high]){
-                high = mid ;
-            }
-
-            else {
+            // Cannot determine which part is sorted
+            if(nums[low] == nums[mid] && nums[mid] == nums[high]) {
+                low++;
                 high--;
+                continue;
+            }
+
+            // Part 1 is sorted
+            if(nums[low] <= nums[mid]) {
+
+                if(nums[low] <= target && target < nums[mid]) {
+                    high = mid - 1;
+                }
+                else {
+                    low = mid + 1;
+                }
+            }
+
+            // Part 2 is sorted
+            else {
+
+                if(nums[mid] < target && target <= nums[high]) {
+                    low = mid + 1;
+                }
+                else {
+                    high = mid - 1;
+                }
             }
         }
-         int minValue = nums[low];
 
-        // Step 2: Find ACTUAL rotation point
-        // i.e. position where previous element > current element
-        int minIndex = 0;
-
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] < nums[i - 1]) {
-                minIndex = i;
-                break;
-            }
-        }
-
-        // No rotation
-        if (minIndex == 0 && nums[0] == minValue) {
-            return bs(nums, target, nums.size() - 1, 0);
-        }
-        if (target >= nums[minIndex] && target <= nums[nums.size() - 1]) {
-            return bs(nums, target , nums.size()-1 , minIndex);
-        }
-        else {
-            return bs(nums, target, minIndex - 1, 0);
-        }
+        return false;
     }
 };
