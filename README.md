@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/armaangarg73/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/armaangarg73/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/armaangarg73/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/armaangarg73/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/armaangarg73/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/armaangarg73/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/armaangarg73/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/armaangarg73/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/armaangarg73/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Monotonic Stack
