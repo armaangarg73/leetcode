@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/armaangarg73/leetcode/tree/master/0002-add-two-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/armaangarg73/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/armaangarg73/leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/armaangarg73/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/armaangarg73/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/armaangarg73/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/armaangarg73/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/armaangarg73/leetcode/tree/master/0875-koko-eating-bananas) |
