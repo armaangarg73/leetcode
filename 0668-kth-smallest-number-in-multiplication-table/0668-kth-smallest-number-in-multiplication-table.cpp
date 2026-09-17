@@ -2,12 +2,21 @@ class Solution {
 public:
 
      int fun(int n , int m , int mid) {
-       
+        int row = n-1 ;
+        int col = 1 ;
         int cnt = 0 ;
-        for(int i = 1 ; i<=n ; i++) {
-            cnt = cnt+ min(m , mid/i);
+        
+        while(row >= 0 && col <= m) {
+            if((row + 1) * col <= mid) {
+                cnt += row + 1;
+                col++;
+            }
+            else {
+                row--;
+            }
         }
-        return cnt ;
+
+        return cnt;
     }
 
     int findKthNumber(int m, int n, int k) {
