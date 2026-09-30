@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/armaangarg73/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/armaangarg73/leetcode/tree/master/0066-plus-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/armaangarg73/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/armaangarg73/leetcode/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/armaangarg73/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## DP on Trees
 |  |
