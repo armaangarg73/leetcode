@@ -31,11 +31,11 @@ public:
                 pq.push(curr);
             }
 
-            // if(curr.first<pq.top().first) {
-            //     continue ;
-            // }
+            else if(curr.first<pq.top().first) {
+                continue ;
+            }
 
-             else if (curr.first > pq.top().first) {
+             else {
                 pq.pop();
                 pq.push(curr);
             }
