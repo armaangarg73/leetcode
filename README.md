@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/armaangarg73/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/armaangarg73/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/armaangarg73/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/armaangarg73/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/armaangarg73/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/armaangarg73/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/armaangarg73/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/armaangarg73/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/armaangarg73/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/armaangarg73/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/armaangarg73/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/armaangarg73/leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/armaangarg73/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -416,4 +422,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
