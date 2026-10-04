@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/armaangarg73/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/armaangarg73/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/armaangarg73/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/armaangarg73/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -196,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/armaangarg73/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/armaangarg73/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/armaangarg73/leetcode/tree/master/0066-plus-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/armaangarg73/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/armaangarg73/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -431,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -440,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
