@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/armaangarg73/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaangarg73/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/armaangarg73/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/armaangarg73/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/armaangarg73/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/armaangarg73/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/armaangarg73/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/armaangarg73/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/armaangarg73/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/armaangarg73/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
