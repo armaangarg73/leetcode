@@ -1,8 +1,8 @@
 class Solution {
 public:
     struct cmp {
-        bool operator()(pair<double, vector<int>>& a,
-                        pair<double, vector<int>>& b) {
+        bool operator()(pair<double, int>& a,
+                        pair<double, int>& b) {
             if (a.first != b.first) {
                 return a.first < b.first;
             }
@@ -12,19 +12,17 @@ public:
     };
 
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        
-        priority_queue<pair<double, vector<int>>,
-                       vector<pair<double, vector<int>>>, cmp>
-            pq;
 
-        for (auto point : points) {
+        priority_queue<pair<double, int>, vector<pair<double, int>>, cmp> pq;
 
-            int x = point[0];
-            int y = point[1];
+        for (int i = 0; i < points.size(); i++) {
 
-            double dist = sqrt((x - 0) * (x - 0) + (y - 0) * (y - 0));
+            int x = points[i][0];
+            int y = points[i][1];
 
-            pair<double, vector<int>> curr = {dist, point};
+            double dist = sqrt(x * x + y * y);
+
+            pair<double, int> curr = {dist, i};
 
             if (pq.size() < k) {
                 pq.push(curr);
@@ -37,7 +35,7 @@ public:
         vector<vector<int>> res;
 
         while (!pq.empty()) {
-            res.push_back(pq.top().second);
+            res.push_back(points[pq.top().second]);
             pq.pop();
         }
 
