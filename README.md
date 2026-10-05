@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/armaangarg73/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/armaangarg73/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/armaangarg73/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/armaangarg73/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/armaangarg73/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaangarg73/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/armaangarg73/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/armaangarg73/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/armaangarg73/leetcode/tree/master/0130-surrounded-regions) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/armaangarg73/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/armaangarg73/leetcode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
