@@ -1,42 +1,44 @@
 class Solution {
 public:
 
-    int fun(vector<vector<int>>& matrix , int n , int m , int mid) {
-        int row = n-1 ;
-        int col = 0 ;
-        int cnt = 0 ;
+    struct cmp {
+        bool operator() (pair<int , int>& a , pair<int , int>& b) {
+            if(a.first!=b.first) {
+                return a.first<b.first ;
+            }
 
-        while(row>=0 && col<m) {
-            if(matrix[row][col]<=mid){
-                cnt = cnt+row+1 ;
-                col++;
-            }
-            else {
-                row--;
-            }
+            return a.second<b.second ;
         }
-        return cnt ;
-    }
+    };
 
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n = matrix.size() ;
-        int m = matrix[0].size() ;
+        priority_queue<pair<int,int> , vector<pair<int,int>> , cmp> pq ;
 
-        int low = matrix[0][0] ;
-        int high = matrix[n-1][m-1];
-        int res = -1 ;
+        for(int i = 0 ; i<matrix.size() ; i++) {
+            for(int j = 0 ; j<matrix[0].size() ; j++) {
+                
+            int value = matrix[i][j];
 
-        while(low<=high) {
-            int mid = (low+high)/2 ;
-            int ans = fun(matrix , n , m , mid) ;
-            if(ans<k) {
-                low = mid+1 ;
-            }
-            else {
-                res = mid ;
-                high = mid-1 ;
+                pair<int, int> curr = {value, j};
+
+                if (pq.size() < k) {
+                    pq.push(curr);
+                }
+                else if (curr.first < pq.top().first) {
+                    pq.pop();
+                    pq.push(curr);
+                }
             }
         }
-        return res ;
+
+        vector<int>res ;
+
+        while (!pq.empty()) {
+            res.push_back(pq.top().first);
+            pq.pop();
+        }
+
+        reverse(res.begin(), res.end());
+        return res[k-1];
     }
 };
