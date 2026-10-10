@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/armaangarg73/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/armaangarg73/leetcode/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0459-repeated-substring-pattern](https://github.com/armaangarg73/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
@@ -540,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/armaangarg73/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
