@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/armaangarg73/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/armaangarg73/leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/armaangarg73/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/armaangarg73/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/armaangarg73/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/armaangarg73/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/armaangarg73/leetcode/tree/master/0049-group-anagrams) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/armaangarg73/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/armaangarg73/leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/armaangarg73/leetcode/tree/master/0066-plus-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/armaangarg73/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
