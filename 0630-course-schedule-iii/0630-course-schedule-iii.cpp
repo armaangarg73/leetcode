@@ -7,7 +7,6 @@ public:
 
     int scheduleCourse(vector<vector<int>>& courses) {
         int n = courses.size() ; 
-        if(n<=0) return 0 ;
 
         sort(courses.begin() , courses.end() , comp) ;
 
