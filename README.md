@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/armaangarg73/leetcode/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/armaangarg73/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/armaangarg73/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/armaangarg73/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/armaangarg73/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/armaangarg73/leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/armaangarg73/leetcode/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/armaangarg73/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/armaangarg73/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/armaangarg73/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/armaangarg73/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/armaangarg73/leetcode/tree/master/0502-ipo) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaangarg73/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/armaangarg73/leetcode/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/armaangarg73/leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/armaangarg73/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/armaangarg73/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
