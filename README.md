@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/armaangarg73/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/armaangarg73/leetcode/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/armaangarg73/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/armaangarg73/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/armaangarg73/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/armaangarg73/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/armaangarg73/leetcode/tree/master/0682-baseball-game) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/armaangarg73/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/armaangarg73/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/armaangarg73/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/armaangarg73/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/armaangarg73/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/armaangarg73/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/armaangarg73/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/armaangarg73/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/armaangarg73/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/armaangarg73/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/armaangarg73/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/armaangarg73/leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/armaangarg73/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/armaangarg73/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
