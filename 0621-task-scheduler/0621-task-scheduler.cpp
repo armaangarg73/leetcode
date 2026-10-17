@@ -1,27 +1,63 @@
 class Solution {
 public:
+    struct cmp {
+        bool operator() (pair<int, char>& a, pair<int, char>& b) {
+            if (a.first != b.first) {
+                return a.first < b.first;
+            }
+
+            return a.second < b.second;
+        }
+    };
+
     int leastInterval(vector<char>& tasks, int n) {
-          vector<int> freq(26, 0);
+        int size = tasks.size();
+        unordered_map<char, int> freq;
+        unordered_map<char, int> free;
 
-        for (char ch : tasks) {
-            freq[ch - 'A']++;
+        for (auto i : tasks) {
+            freq[i]++;
+            free[i] = 1;
         }
 
-        int maxFreq = 0;
-        int ties = 0;
+        priority_queue<pair<int, char>, vector<pair<int, char>>, cmp> pq;
 
-        for (int count : freq) {
-            if (count > maxFreq) {
-                maxFreq = count;
-                ties = 1;
-            }
-            else if (count == maxFreq) {
-                ties++;
-            }
+        for (auto i : freq) {
+            pq.push({i.second, i.first});
         }
 
-        int frame = (maxFreq - 1) * (n + 1) + ties;
+        int seat = 1;
 
-        return max((int)tasks.size(), frame);
+        while (!pq.empty()) {
+            vector<pair<int, char>> pulled; // kona hai yeh
+            while (!pq.empty()) {
+                pair<int, char> p = pq.top();
+                pq.pop();
+
+                int freq = p.first;
+                int child = p.second;
+
+                if (free[child] <= seat) {
+                    if (freq > 1) {
+                        pq.push({freq - 1, child});
+                    }
+
+                    free[child] = seat + n + 1;
+                    break;
+                }
+
+                else {
+                    pulled.push_back(p); // kone me bhejdo ek baar
+                }
+            } // checking vala loop hai -> heap empty hogya hai to isko exit krjao
+
+            for (int i = 0; i < pulled.size(); i++) {
+                pq.push(pulled[i]);
+            }
+
+            seat++;
+        }
+
+        return seat-1;
     }
 };
