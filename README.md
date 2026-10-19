@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/armaangarg73/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2396-strictly-palindromic-number](https://github.com/armaangarg73/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/armaangarg73/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2396-strictly-palindromic-number](https://github.com/armaangarg73/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -584,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/armaangarg73/leetcode/tree/master/0901-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/armaangarg73/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
