@@ -15,9 +15,10 @@ public:
     void visit(string url) {
         currentHistory.push(url);
 
-        while(!forwardHistory.empty()) {
-            forwardHistory.pop();
-        }
+        // while(!forwardHistory.empty()) {
+        //     forwardHistory.pop();
+        // }
+         forwardHistory = stack<string>();
     }
     
     string back(int steps) {
