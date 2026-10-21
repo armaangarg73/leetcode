@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/armaangarg73/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/armaangarg73/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/armaangarg73/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/armaangarg73/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/armaangarg73/leetcode/tree/master/0086-partition-list) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/armaangarg73/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/armaangarg73/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/armaangarg73/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/armaangarg73/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/armaangarg73/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/armaangarg73/leetcode/tree/master/0041-first-missing-positive) |
