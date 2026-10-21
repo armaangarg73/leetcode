@@ -1,57 +1,35 @@
 class BrowserHistory {
 public:
 
-    stack<string> currentHistory ;
-    stack<string> forwardHistory ;
-
+     stack<string> history;
+    stack<string> future;
+	
     BrowserHistory(string homepage) {
-        currentHistory = stack<string>() ;
-        forwardHistory = stack<string>();
-
-        currentHistory.push(homepage);
-
+        history.push(homepage);
+        future = stack<string>();           // Reset the forward stack.
     }
     
     void visit(string url) {
-        currentHistory.push(url);
-
-        // while(!forwardHistory.empty()) {
-        //     forwardHistory.pop();
-        // }
-         forwardHistory = stack<string>();
+        history.push(url);
+        future = stack<string>();           // Reset the forward stack.
     }
     
     string back(int steps) {
-        while(steps>0) {
-            if(currentHistory.size()>1) {
-                string backTab = currentHistory.top();
-                currentHistory.pop();
-                forwardHistory.push(backTab);
-            }
-
-            else {
-                break ;
-            }
+        while(steps > 0 && history.size() > 1) { // Always keep at least one element in the stack. 
+            future.push(history.top());
+            history.pop();
             steps--;
         }
-        return currentHistory.top();
+        return history.top();
     }
     
     string forward(int steps) {
-         while(steps>0) {
-            if(forwardHistory.size()>0) {
-                string forwardTab = forwardHistory.top();
-                forwardHistory.pop();
-                currentHistory.push(forwardTab);
-            }
-
-            else {
-                break ;
-            }
+        while(steps > 0 && future.size() > 0) {
+            history.push(future.top());
+            future.pop();
             steps--;
         }
-
-        return currentHistory.top() ;
+        return history.top();
     }
 };
 
