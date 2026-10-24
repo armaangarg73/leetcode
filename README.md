@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/armaangarg73/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/armaangarg73/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/armaangarg73/leetcode/tree/master/0191-number-of-1-bits) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/armaangarg73/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/armaangarg73/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/armaangarg73/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/armaangarg73/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaangarg73/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/armaangarg73/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaangarg73/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/armaangarg73/leetcode/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Data Stream
 |  |
