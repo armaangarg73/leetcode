@@ -35,7 +35,7 @@ public:
                 pq.pop();
 
                 int freq = p.first;
-                int child = p.second;
+                char child = p.second;
 
                 if (free[child] <= seat) {
                     if (freq > 1) {
