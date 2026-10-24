@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/armaangarg73/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/armaangarg73/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/armaangarg73/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/armaangarg73/leetcode/tree/master/0191-number-of-1-bits) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/armaangarg73/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/armaangarg73/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sorting
 |  |
 | ------- |
