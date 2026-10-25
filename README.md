@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/armaangarg73/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/armaangarg73/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/armaangarg73/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaangarg73/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/armaangarg73/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/armaangarg73/leetcode/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/armaangarg73/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/armaangarg73/leetcode/tree/master/0539-minimum-time-difference) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/armaangarg73/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/armaangarg73/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaangarg73/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/armaangarg73/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/armaangarg73/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/armaangarg73/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/armaangarg73/leetcode/tree/master/0349-intersection-of-two-arrays) |
