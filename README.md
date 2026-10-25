@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/armaangarg73/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/armaangarg73/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2367-number-of-arithmetic-triplets](https://github.com/armaangarg73/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/armaangarg73/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/armaangarg73/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2367-number-of-arithmetic-triplets](https://github.com/armaangarg73/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/armaangarg73/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/armaangarg73/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/armaangarg73/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/armaangarg73/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2367-number-of-arithmetic-triplets](https://github.com/armaangarg73/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/armaangarg73/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/armaangarg73/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaangarg73/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/armaangarg73/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
