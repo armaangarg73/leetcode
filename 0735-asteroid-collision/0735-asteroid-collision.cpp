@@ -21,10 +21,8 @@ public:
                 if (!st.empty() && st.top() == abs(asteroids[i])) {
                     st.pop();
                 }
-                else {
-                    if(st.empty() || st.top()<0){
-                     st.push(asteroids[i]);
-                }
+                else if(st.empty() || st.top()<0){
+                     st.push(asteroids[i]); 
                 }
             }
         }
