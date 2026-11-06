@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/armaangarg73/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/armaangarg73/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2785-sort-vowels-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/armaangarg73/leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/armaangarg73/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
