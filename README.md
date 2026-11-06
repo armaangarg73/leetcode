@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/armaangarg73/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/armaangarg73/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/armaangarg73/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/armaangarg73/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/armaangarg73/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
 ## Memoization
 |  |
 | ------- |
@@ -666,4 +668,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/armaangarg73/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
