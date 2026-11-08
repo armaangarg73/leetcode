@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/armaangarg73/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/armaangarg73/leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/armaangarg73/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/armaangarg73/leetcode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/armaangarg73/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/armaangarg73/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
