@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/armaangarg73/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/armaangarg73/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/armaangarg73/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/armaangarg73/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/armaangarg73/leetcode/tree/master/0344-reverse-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/armaangarg73/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/armaangarg73/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaangarg73/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/armaangarg73/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/armaangarg73/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/armaangarg73/leetcode/tree/master/0509-fibonacci-number) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/armaangarg73/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/armaangarg73/leetcode/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/armaangarg73/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/armaangarg73/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/armaangarg73/leetcode/tree/master/0216-combination-sum-iii) |
 ## Data Stream
 |  |
