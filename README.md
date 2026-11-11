@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/armaangarg73/leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/armaangarg73/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/armaangarg73/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/armaangarg73/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/armaangarg73/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/armaangarg73/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/armaangarg73/leetcode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/armaangarg73/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/armaangarg73/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/armaangarg73/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/armaangarg73/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/armaangarg73/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/armaangarg73/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaangarg73/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/armaangarg73/leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/armaangarg73/leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/armaangarg73/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/armaangarg73/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/armaangarg73/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/armaangarg73/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/armaangarg73/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
