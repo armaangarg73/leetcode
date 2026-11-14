@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/armaangarg73/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/armaangarg73/leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/armaangarg73/leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/armaangarg73/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/armaangarg73/leetcode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/armaangarg73/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/armaangarg73/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/armaangarg73/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/armaangarg73/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/armaangarg73/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/armaangarg73/leetcode/tree/master/0687-longest-univalue-path) |
 ## Union-Find
 |  |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaangarg73/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/armaangarg73/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/armaangarg73/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -729,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/armaangarg73/leetcode/tree/master/2427-number-of-common-factors) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/armaangarg73/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
