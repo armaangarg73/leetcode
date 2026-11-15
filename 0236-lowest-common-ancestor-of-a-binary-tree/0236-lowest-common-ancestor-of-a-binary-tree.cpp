@@ -12,22 +12,22 @@ public:
 
     TreeNode* ans = NULL;
 
-    int solve(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == NULL) return 0;
+    int solve(TreeNode* node, TreeNode* p, TreeNode* q) {
+        if(node == NULL) return 0;
 
-        int left = solve(root->left, p, q);
-        int right = solve(root->right, p, q);
+        int left = solve(node->left, p, q);
+        int right = solve(node->right, p, q);
 
         int self = 0;
 
-        if(root == p || root == q) {
+        if(node == p || node == q) {
             self = 1;
         }
 
         int total = left + right + self;
 
         if(total == 2 && ans == NULL) {
-            ans = root;
+            ans = node;
         }
 
         return total;
