@@ -39,7 +39,8 @@ public:
 
         if(isSameTree(root, subRoot)) return true;
         if(isSubtree(root->left, subRoot)) return true;
-        return isSubtree(root->right, subRoot);
+        if(isSubtree(root->right, subRoot)) return true;
 
+        return false ;
     }
 };
