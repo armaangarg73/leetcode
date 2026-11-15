@@ -21,14 +21,13 @@ public:
             return false ;
         }
 
-        if(p->val == q->val) {
+        if(p->val!=q->val) return false ;
+
         bool r1 = isMirror(p->left , q->right);
         bool r2 = isMirror(p->right , q->left);
 
         if(r1 == true && r2 == true) {
             return true ;
-        }
-        else return false ;
         }
         else return false ;
     }
