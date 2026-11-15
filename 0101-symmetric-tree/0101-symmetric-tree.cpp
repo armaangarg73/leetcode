@@ -28,7 +28,7 @@ public:
         if(r1 == true && r2 == true) {
             return true ;
         }
-        return false ;
+        else return false ;
         }
         else return false ;
     }
